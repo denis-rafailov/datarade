@@ -14,7 +14,7 @@ Write a simple rails application that receives and processes events from Stripe.
 
 
 ## Installation steps
-```git clone https://your-repository-url.com```
+```git clone git@github.com:denis-rafailov/datarade.git```
 
 ```cd your-project-directory```
 
