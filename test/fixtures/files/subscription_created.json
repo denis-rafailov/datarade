@@ -1,0 +1,11 @@
+{
+  "id": "evt_123",
+  "type": "customer.subscription.created",
+  "data": {
+    "object": {
+      "id": "sub_123",
+      "customer": "cus_123",
+      "status": "active"
+    }
+  }
+}

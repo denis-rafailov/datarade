@@ -1,0 +1,11 @@
+{
+  "id": "evt_456",
+  "type": "customer.subscription.deleted",
+  "data": {
+    "object": {
+      "id": "sub_456",
+      "customer": "cus_456",
+      "status": "canceled"
+    }
+  }
+}
